@@ -352,12 +352,9 @@ button{
     margin-bottom: 10px;
 }
 
-.gallery{
+.carousel{
     width: 100%;
     height: 350px;
-    background-image: url("/assets/images/one.jpg");
-    background-position: center;
-    background-size: cover;
     margin-top: 25px;
 }
 
