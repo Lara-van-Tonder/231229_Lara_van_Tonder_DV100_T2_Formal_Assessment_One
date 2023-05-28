@@ -339,7 +339,10 @@ form{
     margin-bottom: 10px;
 }
 
-/*Remember checkbox for newsletters*/
+.top-check{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
 button{
     width: 150px;
